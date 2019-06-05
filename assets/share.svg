@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 49 27" width="49" height="27">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #464646 } 
+	</style>
+	<g id="Static-blocks">
+		<g id="30 Days Return">
+			<path id="share" class="shp0" d="M13.01 10.65L13.01 21.61L27.26 21.61L33.16 27L6.93 27L6.93 10.65L1 10.65L10.05 1.17L18.91 10.65L13.01 10.65ZM36.99 17.44L36.99 6.48L22.73 6.48L16.75 1L43.07 1L43.07 17.44L49 17.44L39.95 26.91L31.09 17.44L36.99 17.44Z" />
+		</g>
+	</g>
+</svg>
