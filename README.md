@@ -1,5 +1,7 @@
 # FE1
-Frontend referansları 1
+Frontend referansları 1 (Responsive Tasarım)
+
+Kullanılan kütüphane ve teknolojiler : bootstrap, google fonts, fontawesome, animate.css, jQuery, wow script
 
 [Web -> https://ergintiravoglu.github.io/FE1/](https://ergintiravoglu.github.io/FE1/ "Web sitesi")
 
