@@ -7,5 +7,5 @@ Kullanılan kütüphane ve teknolojiler : bootstrap, google fonts, fontawesome, 
 
 [Design -> https://dribbble.com/shots/5550770-Roneshopbee-e-Commerce-PSD-Template ](https://dribbble.com/shots/5550770-Roneshopbee-e-Commerce-PSD-Template "Tasarımın Psd dosyası")
 
-# Temp Proje Ekran Görüntüsü
-[Link -> https://drive.google.com/open?id=1MLF5jtmDEKrTGUZhm5IFrEPXo4PB2Jd-](Link)
+# Temp Proje Ekran Görüntüleri
+[Link ->](https://drive.google.com/open?id=1MLF5jtmDEKrTGUZhm5IFrEPXo4PB2Jd-)
