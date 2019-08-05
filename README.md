@@ -6,3 +6,6 @@ Kullanılan kütüphane ve teknolojiler : bootstrap, google fonts, fontawesome, 
 [Web -> https://ergintiravoglu.github.io/FE1/](https://ergintiravoglu.github.io/FE1/ "Web sitesi")
 
 [Design -> https://dribbble.com/shots/5550770-Roneshopbee-e-Commerce-PSD-Template ](https://dribbble.com/shots/5550770-Roneshopbee-e-Commerce-PSD-Template "Tasarımın Psd dosyası")
+
+# Temp Proje Ekran Görüntüsü
+[Link -> https://drive.google.com/open?id=1MLF5jtmDEKrTGUZhm5IFrEPXo4PB2Jd-](Link)
